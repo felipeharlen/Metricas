@@ -10,7 +10,7 @@ As métricas de avaliação desempenham um papel crucial na medição do desempe
 
 O projeto visa realizar o cálculo e análise de diversas métricas de avaliação, incluindo acurácia, F1-score, precisão, revocação e especificidade, a partir de uma matriz de confusão. Utiliza o conjunto de dados MNIST para demonstrar essas métricas, fornecendo uma visão aprofundada do desempenho do modelo.
 
-![Exemplo MNIST](mnist.png) | = 200x200
+![Exemplo MNIST](mnist.png | =250x250) 
 *Exemplo de imagens do MNIST.*
 
 ## Algoritmo Utilizado
