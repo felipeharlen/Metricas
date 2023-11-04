@@ -12,7 +12,7 @@ O projeto visa realizar o cálculo e análise de diversas métricas de avaliaç�
 
 <figure>
   <img src='mnist.png' width='250' height='250'>
-  <figcaption><i>Exemplo de imagem do MNIST.</i></figcaption>
+  <figcaption><i>Exemplo de imagens do MNIST.</i></figcaption>
 </figure>
 
 ## Algoritmo Utilizado
